@@ -5,7 +5,6 @@ by: BJ Enrik Yepes
 Gaming has always been an integral part of my life, providing entertainment, escapism, and even valuable life lessons. The impact of gaming on my personal growth and development cannot be understated. From the humble beginnings of classic 8-bit NES games, where I first discovered the joy of gaming, to the immersive world of Pokémon on the portable Game Boy, and the revolutionary leap into the console era with the iconic PlayStation 2, each era has left an indelible mark on my gaming journey. I spent countless hours immersed in the vast virtual landscapes of browser-based MMORPGs like RuneScape, forging friendships and memories that still resonate with me today. And then there was Dota 2, the pinnacle of competitive gaming that captivated me with its strategic depth and electrifying gameplay.
 
 <div style="display: flex; align-items: left;">
-    <img src="" style="display:inline-block; margin-right: 20px; height: 200px;" />
     <img src="resources/contra.gif" style="display:inline-block; margin-right: 20px; height: 200px; width: 200px;" />
     <img src="resources/pokemon-ruby-pokemon-sapphire.gif" style="display:inline-block; margin-right: 10px; height: 200px; width: 250px;" />
     <img src="resources/runescape-old-school-runescape.gif" style="display:inline-block; margin-right: 10px; height: 200px; width: 250px;" />
