@@ -1,4 +1,4 @@
-![header.png](attachment:header.png)
+![header.png](resources/header.png)
 
 by: BJ Enrik Yepes
 
@@ -6,10 +6,10 @@ Gaming has always been an integral part of my life, providing entertainment, esc
 
 <div style="display: flex; align-items: left;">
     <img src="" style="display:inline-block; margin-right: 20px; height: 200px;" />
-    <img src="contra.gif" style="display:inline-block; margin-right: 20px; height: 200px; width: 200px;" />
-    <img src="pokemon-ruby-pokemon-sapphire.gif" style="display:inline-block; margin-right: 10px; height: 200px; width: 250px;" />
-    <img src="runescape-old-school-runescape.gif" style="display:inline-block; margin-right: 10px; height: 200px; width: 250px;" />
-    <img src="san_andreas.gif" style="display:inline-block; margin-right: 10px; height: 200px; width: 250px;" />
+    <img src="resources/contra.gif" style="display:inline-block; margin-right: 20px; height: 200px; width: 200px;" />
+    <img src="resources/pokemon-ruby-pokemon-sapphire.gif" style="display:inline-block; margin-right: 10px; height: 200px; width: 250px;" />
+    <img src="resources/runescape-old-school-runescape.gif" style="display:inline-block; margin-right: 10px; height: 200px; width: 250px;" />
+    <img src="resources/san_andreas.gif" style="display:inline-block; margin-right: 10px; height: 200px; width: 250px;" />
 </div>
 
 
@@ -20,7 +20,7 @@ However, as technology progresses, so does the gaming industry. One significant 
 
 In recent years, OpenAI, a leading artificial intelligence research organization, has harnessed the power of reinforcement learning to create game-playing bots that have surpassed even the most skilled human players in games like Dota 2. This groundbreaking achievement showcases the immense potential of reinforcement learning in revolutionizing the gaming landscape. [1, 4]
 
-![image.png](attachment:image.png)
+![openai_dendi.png](resources/openai_dendi.png)
 
 
 <center> <b>Image Source:</b> <a href=https://www.esportstalk.com/news/openai-at-the-international-2019/>OpenAI at The International 2019</center>
@@ -51,7 +51,7 @@ Here, Figure 1 illustrates the fundamental reinforcement learning cycle, which c
 
 7. **`Iteration:`** The cycle repeats as the agent continues to observe, act, receive rewards, and learn from its interactions with the environment.
 
-![image.png](attachment:image.png)
+![rl_cycle.png](resources/rl_cycle.png)
 
 <center>Figure 1. Reinforcement Learning Cycle</center>
 
@@ -100,7 +100,7 @@ However, it's important to note that PyTorch itself needs to be installed separa
 
 For the PyTorch installation, you can refer to the official PyTorch website at: <a href=https://pytorch.org/get-started/locally/>PyTorch Installation</a>. This link provides detailed instructions on how to install PyTorch locally.
 
-![image-2.png](attachment:image-2.png)
+![pytorch_installation.png](resources/pytorch_installation.png)
 
 In my case, I required a stable PyTorch build for Windows OS, preferred to use Pip as the installer, utilized Python as the programming language, and currently had CUDA version 11.8 installed.
 
@@ -184,7 +184,7 @@ env = VecFrameStack(env, 4, channels_order='last')
 
 To provide a visual understanding of our grayscale environment stacked four times, take a look at this illustration. It showcases the temporal progression of Mario's actions, specifically his jumps, across a duration of four frames.
 
-![image.png](attachment:image.png)
+![temporal_progression.png](resources/temporal_progression.png)
 
 # The Training Arc!
 
